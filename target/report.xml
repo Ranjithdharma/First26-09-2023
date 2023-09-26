@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.68" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Background Execute oder" name="First Scenario" time="3.234">
+<system-out><![CDATA[
+Given Bg Given..............................................................passed
+When Bg When................................................................passed
+Then Bg Then................................................................passed
+Given First given...........................................................passed
+When First then.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Background Execute oder" name="Second Scenario" time="2.29">
+<system-out><![CDATA[
+Given Bg Given..............................................................passed
+When Bg When................................................................passed
+Then Bg Then................................................................passed
+Given Second given..........................................................passed
+When Second when............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

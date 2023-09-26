@@ -1,0 +1,385 @@
+[
+	{
+		"line": 1,
+		"elements": [
+			{
+				"start_timestamp": "2023-08-24T12:53:18.184Z",
+				"before": [
+					{
+						"result": {
+							"duration": 3222220900,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.initialSetup()"
+						}
+					}
+				],
+				"line": 11,
+				"name": "Checking login fields with invalid data",
+				"description": "",
+				"id": "checking-the-facebook-login-page;checking-login-fields-with-invalid-data;;2",
+				"after": [
+					{
+						"result": {
+							"duration": 176891700,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.finalSetup()"
+						}
+					}
+				],
+				"type": "scenario",
+				"keyword": "Scenario Outline",
+				"steps": [
+					{
+						"result": {
+							"duration": 2267986000,
+							"status": "passed"
+						},
+						"line": 4,
+						"name": "Facebook URL is launched",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.facebook_url_is_launched()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 226813300,
+							"status": "passed"
+						},
+						"line": 5,
+						"name": "User Enters the \"ranji\" and \"rrrra\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"ranji\"",
+									"offset": 16
+								},
+								{
+									"val": "\"rrrra\"",
+									"offset": 28
+								}
+							],
+							"location": "org.stepdefinittions.StepDefinition.user_enters_the_and(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 95614000,
+							"status": "passed"
+						},
+						"line": 6,
+						"name": "click login button",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.click_login_button()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 7735542800,
+							"status": "passed"
+						},
+						"line": 7,
+						"name": "Take \"ran\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"ran\"",
+									"offset": 5
+								}
+							],
+							"location": "org.stepdefinittions.StepDefinition.take(java.lang.String)"
+						},
+						"keyword": "Then "
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-08-24T12:53:31.962Z",
+				"before": [
+					{
+						"result": {
+							"duration": 2102477400,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.initialSetup()"
+						}
+					}
+				],
+				"line": 12,
+				"name": "Checking login fields with invalid data",
+				"description": "",
+				"id": "checking-the-facebook-login-page;checking-login-fields-with-invalid-data;;3",
+				"after": [
+					{
+						"result": {
+							"duration": 128077500,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.finalSetup()"
+						}
+					}
+				],
+				"type": "scenario",
+				"keyword": "Scenario Outline",
+				"steps": [
+					{
+						"result": {
+							"duration": 2160983400,
+							"status": "passed"
+						},
+						"line": 4,
+						"name": "Facebook URL is launched",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.facebook_url_is_launched()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 133373900,
+							"status": "passed"
+						},
+						"line": 5,
+						"name": "User Enters the \"ranj\" and \"rrra\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"ranj\"",
+									"offset": 16
+								},
+								{
+									"val": "\"rrra\"",
+									"offset": 27
+								}
+							],
+							"location": "org.stepdefinittions.StepDefinition.user_enters_the_and(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 75508400,
+							"status": "passed"
+						},
+						"line": 6,
+						"name": "click login button",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.click_login_button()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 4432574800,
+							"status": "passed"
+						},
+						"line": 7,
+						"name": "Take \"ranj\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"ranj\"",
+									"offset": 5
+								}
+							],
+							"location": "org.stepdefinittions.StepDefinition.take(java.lang.String)"
+						},
+						"keyword": "Then "
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-08-24T12:53:41.007Z",
+				"before": [
+					{
+						"result": {
+							"duration": 3320236400,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.initialSetup()"
+						}
+					}
+				],
+				"line": 13,
+				"name": "Checking login fields with invalid data",
+				"description": "",
+				"id": "checking-the-facebook-login-page;checking-login-fields-with-invalid-data;;4",
+				"after": [
+					{
+						"result": {
+							"duration": 125351600,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.finalSetup()"
+						}
+					}
+				],
+				"type": "scenario",
+				"keyword": "Scenario Outline",
+				"steps": [
+					{
+						"result": {
+							"duration": 2224732300,
+							"status": "passed"
+						},
+						"line": 4,
+						"name": "Facebook URL is launched",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.facebook_url_is_launched()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 126365400,
+							"status": "passed"
+						},
+						"line": 5,
+						"name": "User Enters the \"rannji\" and \"rra\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"rannji\"",
+									"offset": 16
+								},
+								{
+									"val": "\"rra\"",
+									"offset": 29
+								}
+							],
+							"location": "org.stepdefinittions.StepDefinition.user_enters_the_and(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 54767100,
+							"status": "passed"
+						},
+						"line": 6,
+						"name": "click login button",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.click_login_button()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 3496897000,
+							"status": "passed"
+						},
+						"line": 7,
+						"name": "Take \"raan\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"raan\"",
+									"offset": 5
+								}
+							],
+							"location": "org.stepdefinittions.StepDefinition.take(java.lang.String)"
+						},
+						"keyword": "Then "
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-08-24T12:53:50.364Z",
+				"before": [
+					{
+						"result": {
+							"duration": 2045821900,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.initialSetup()"
+						}
+					}
+				],
+				"line": 15,
+				"name": "Checking Forgot Password",
+				"description": "",
+				"id": "checking-the-facebook-login-page;checking-forgot-password",
+				"after": [
+					{
+						"result": {
+							"duration": 140365000,
+							"status": "passed"
+						},
+						"match": {
+							"location": "org.hook.Hookclass.finalSetup()"
+						}
+					}
+				],
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 2050023300,
+							"status": "passed"
+						},
+						"line": 16,
+						"name": "Facebook url loading",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.facebook_url_is_launched()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 941095400,
+							"status": "passed"
+						},
+						"line": 17,
+						"name": "User Click Forgot Password",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.user_click_forgot_password()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 118837800,
+							"status": "passed"
+						},
+						"line": 18,
+						"name": "User Enter email and Click search",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.user_enter_email_and_click_search()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 249677400,
+							"status": "passed"
+						},
+						"line": 19,
+						"name": "Take ScreenShot Of Result",
+						"match": {
+							"location": "org.stepdefinittions.StepDefinition.take_screen_shot_of_result()"
+						},
+						"keyword": "Then "
+					}
+				]
+			}
+		],
+		"name": "Checking the Facebook Login Page",
+		"description": "",
+		"id": "checking-the-facebook-login-page",
+		"keyword": "Feature",
+		"uri": "file:featurefiles/files.feature",
+		"tags": []
+	}
+]
